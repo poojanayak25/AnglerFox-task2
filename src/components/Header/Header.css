@@ -1,0 +1,15 @@
+.header {
+  width: 30%;
+  padding: 2% 0 2% 15%;
+}
+
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+@media only screen and (max-width: 600px) {
+  .header {
+    width: 90%;
+    padding: 2% 5%;
+  }
+}
